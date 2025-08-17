@@ -1,6 +1,8 @@
 # 🚀 CSV to MySQL JSON Converter
 
 A powerful, generic web-based tool that converts CSV data into MySQL INSERT statements with JSON payloads. Perfect for migrating data to modern database schemas that store structured data as JSON.
+![Uploading image.png…]()
+
 
 ## ✨ Features
 
